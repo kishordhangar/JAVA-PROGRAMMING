@@ -1,8 +1,7 @@
+package Project;
 
-//9. Write a program to demonstrate usage of break and continue in java . 
-import java.lang.*;
-class Continue_Statement
- {
+public class Continue_Statement
+{
 	public static void main(String args[])
 	{
 		
@@ -18,3 +17,18 @@ class Continue_Statement
 		System.out.println("Outside of the Loop");
 	}
 }
+/*
+OUTPUT
+ 
+Integer Numbers = 0
+Integer Numbers = 1
+Integer Numbers = 2
+Integer Numbers = 3
+Integer Numbers = 4
+Integer Numbers = 6
+Integer Numbers = 7
+Integer Numbers = 8
+Integer Numbers = 9
+Outside of the Loop
+
+ */
